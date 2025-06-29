@@ -1,5 +1,5 @@
 # codsoft_taskno.1
-#  Guess The Number Game
+# Number Guessing Game
 
 **Author:** Gaurav Yadav  
 **Domain:** C++ Programming  
