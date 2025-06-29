@@ -1,4 +1,4 @@
-# codesoft_taskno.1
+# codsoft_taskno.1
 #  Guess The Number Game
 
 **Author:** Gaurav Yadav  
